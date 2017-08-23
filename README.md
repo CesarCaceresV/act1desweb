@@ -6,7 +6,7 @@
 
 [![Small Business Preview](https://startbootstrap.com/assets/img/templates/small-business.jpg)](https://blackrockdigital.github.io/startbootstrap-small-business/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-small-business/)**
+**[View Live Preview](https://raw.githubusercontent.com/CesarCaceresV/act1desweb/master/action.png)**
 
 ## Status
 
